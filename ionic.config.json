@@ -1,0 +1,7 @@
+{
+  "name": "formKarenApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
